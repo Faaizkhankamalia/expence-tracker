@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656766076352",
+    "project_id": "task-4fb3e",
+    "storage_bucket": "task-4fb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656766076352:android:d1a152ddff3c7b8cb93425",
+        "android_client_info": {
+          "package_name": "com.boxoffice.box_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1bVrFuZAAzn301_nYl3VUHaylmgNllD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
